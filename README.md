@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Full-stack Web Developer @[Ukirama](ukirama.com)
+- Working on Ruby on Rails, Angular.js, Postgresql
+
 <!--
 **ervianae/ervianae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
